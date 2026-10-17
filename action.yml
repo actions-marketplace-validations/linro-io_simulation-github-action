@@ -19,8 +19,8 @@
 # as the normal way to reach anything listed below.
 name: Linro Simulation
 description: >-
-  Simulate Terraform plans and Pulumi previews against your Linro install and
-  get the policy verdict as a pull-request check, before you apply.
+  Enforce cloud security on every Terraform plan and Pulumi preview with a PR
+  check before you apply. Trust what ships.
 author: Linro
 
 branding:
